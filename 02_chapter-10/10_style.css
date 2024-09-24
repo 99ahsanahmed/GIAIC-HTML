@@ -6,3 +6,8 @@ td{
     padding:10px;
     border:2px solid;
 }
+a{
+    text-decoration:none;
+    color:black;
+    font-size:20px;
+}
